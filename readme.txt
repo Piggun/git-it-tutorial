@@ -1,3 +1,3 @@
 Just some random text for git-it tutorial
 
-Just another ranndom line
+Just another random line
